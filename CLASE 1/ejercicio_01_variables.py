@@ -1,4 +1,4 @@
-ventas_dia_1 = 1232142
+ventas_dia_1 = 122142
 ventas_dia_2 = 12000
 ventas_dia_3 = 6500000
 

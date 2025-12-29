@@ -4,7 +4,7 @@ ventas_marzo = float(input("Ingrese las ventas del mes de marzo: "))
 total_trimestre = ventas_enero + ventas_febrero + ventas_marzo
 promedio_mensual = total_trimestre / 3
 
-if promedio_mensual >= 1000:
+if promedio_mensual >= 10000:
     print("Mes de ventas bueno")
 else:
     print("Mes de ventas malo")

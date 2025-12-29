@@ -10,7 +10,7 @@ for venta in ventas_mensuales:
     total_ventas += venta
     print("Venta del mes:", venta)
     print("Total acumulado:", total_ventas)
-    print("-" * 30)
+    print("-" * 40)
 
 print("Total de ventas anuales:", total_ventas)
 # Ejercicio 3: Calcular el total de ventas

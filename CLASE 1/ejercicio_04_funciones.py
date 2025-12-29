@@ -1,7 +1,7 @@
 ventas_anuales = [
     1500, 2300, 1800, 2200,
     3000, 2500, 2700, 3200, 2900,
-    3100, 2800, 3500]
+    3100, 2800, 4500]
 
 
 def calcular_total_ventas(ventas_anuales):
